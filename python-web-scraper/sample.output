@@ -1,0 +1,14 @@
+Here’s a sample output for your headlines.txt after running the scraper on a news site like BBC:
+
+
+UK government announces new climate policy
+Global markets react to latest economic data
+Scientists discover new species in the Amazon rainforest
+Tech giants face new regulations in Europe
+Local community rallies for environmental cleanup
+Sports team wins championship after dramatic final
+New study reveals health benefits of walking daily
+Education reforms aim to improve student outcomes
+
+
+Each line is a headline scraped from the site, saved in plain text format.
